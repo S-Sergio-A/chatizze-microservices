@@ -2,7 +2,7 @@
 
 ---
 
-<img style="background-color: #ffffff; padding: 20px" src="https://res.cloudinary.com/gachi322/image/upload/v1628856102/ChatiZZe/architecture_j9pyzj.png" alt="Architecture"/>
+<img style="background-color: #ffffff; padding: 20px" src="https://res.cloudinary.com/gachi322/image/upload/v1628857032/ChatiZZe/architecture_ns7h1t.png" alt="Architecture"/>
 
 ## Links to repositories
 
